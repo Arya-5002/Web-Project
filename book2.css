@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(199, 190, 190));
+}
+.bookimage {
+    height: 500px;
+    width: 390px;
+    margin-top: 80px;
+    margin-left: 30px;
+    box-shadow: 25px 25px 40px 15px rgba(32, 32, 33, 0.9);
+}
+.bookimage img{
+   width: 100%;
+   height: 100%;
+}
+.bookdetails {
+    margin-left: 70px;
+    margin-top: 80px;
+    font-size: 18px;
+    width: 100vw;
+}
+.bookdetails details {
+    margin-bottom: 5px;
+}
+
+summary {
+    font-weight: bold;
+    color: #e9ecef;
+}
+.detailsbutton{
+    background-color: rgb(45, 40, 40);
+    color: #e9ecef;
+}
+.detailsbody{
+    background-color: rgb(45, 40, 40);
+    color: #e9ecef;
+}
+.feedbackcontainer{
+    box-shadow: 15px 15px 40px 10px rgba(42, 42, 43, 0.9);
+}
+.buybutton{
+    background: #823434;
+    color: aliceblue;
+}
+.cartbutton{
+    background: rgb(231, 222, 222);
+
+}
+footer{
+    background-color: rgb(76, 50, 56);
+    ju
+}
